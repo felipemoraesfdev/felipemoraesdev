@@ -5,8 +5,18 @@ Currently building projects with HTML, CSS, and JavaScript.
 
 ## 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santana-1861b63a6/)
-[![Instagram](https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipemoraesdev/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipe-santana-1861b63a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://www.instagram.com/felipemoraesdev/">
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  </a>
+  <a href="https://x.com/felipemoraesdev">
+    <img src="https://img.shields.io/badge/Twitter-020617?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
 
 ## 💻 Tech Stack
 
