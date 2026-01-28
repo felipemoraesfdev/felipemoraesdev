@@ -1,7 +1,9 @@
 ## 👋 About Me
 
-I'm an Information Systems undergraduate at UFU, focused on Front-End Development.
-Currently building projects with HTML, CSS, and JavaScript.
+I'm an information Systems undergraduate (Federal University of Uberlândia - UFU) with strong interest in Front-End Development, process automation, and software engineering fundamentals.
+
+## 📍 Objective
+Front-End Developer Internship or entry-level opportunity in Web Development, Software Engineering, or Information Technology, with focus on building scalable, user-centered web applications.
 
 ## 🌐 Social
 
